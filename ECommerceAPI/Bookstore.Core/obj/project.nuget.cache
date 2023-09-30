@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "syIA4CWcaaFw+7bXc+rRgN1NLOUZd5smEtgow5IUl9Vxig6wk57Lj5S4T7YTH3rmePfO+Obpe4ZgvqnNMIcyYw==",
+  "success": true,
+  "projectFilePath": "G:\\Project\\WebApp\\API-APP\\E-Commerce\\ECommerceAPI\\Bookstore.Core\\Bookstore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\white\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
+    "C:\\Users\\white\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\white\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\bin\Debug\net7.0\Bookstore.Core.deps.json
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\bin\Debug\net7.0\Bookstore.Core.dll
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\bin\Debug\net7.0\Bookstore.Core.pdb
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\Bookstore.Core.csproj.AssemblyReference.cache
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\Bookstore.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\Bookstore.Core.AssemblyInfoInputs.cache
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\Bookstore.Core.AssemblyInfo.cs
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\Bookstore.Core.csproj.CoreCompileInputs.cache
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\Bookstore.Core.dll
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\refint\Bookstore.Core.dll
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\Bookstore.Core.pdb
+G:\Project\WebApp\API-APP\E-Commerce\ECommerceAPI\Bookstore.Core\obj\Debug\net7.0\ref\Bookstore.Core.dll
